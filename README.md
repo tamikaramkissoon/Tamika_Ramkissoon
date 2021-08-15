@@ -3,7 +3,7 @@
 ## I'm a Computer Science Student, Web Developer, and UX Designer!!
 
 - 🌱 I’m currently learning as much as I can
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other Web Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:

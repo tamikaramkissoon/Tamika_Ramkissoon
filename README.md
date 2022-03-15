@@ -1,4 +1,4 @@
-### Hi there, I'm Tamika
+<!-- ### Hi there, I'm Tamika
 
 ## I'm a Computer Science Student, Web Developer, and UX Designer!!
 
@@ -23,3 +23,4 @@
 
 ---
 
+ -->

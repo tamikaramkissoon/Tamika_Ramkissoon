@@ -39,7 +39,7 @@
 <br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamikaramkissoon&theme=algolia&layout=compact)<br>
 
 ## Github Statistical Data:
-<br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=tamikaramkissoon&show_icons=true&count_private=true)<br>
+<br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=tamikaramkissoon&theme=algolia&show_icons=true&count_private=true)<br>
 <br>![GitHub metrics](https://metrics.lecoq.io/tamikaramkissoon)<br>
 
 ![](https://komarev.com/ghpvc/?username=tamikaramkissoon&theme=algolia)

@@ -42,4 +42,4 @@
 <br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=tamikaramkissoon&theme=algolia&show_icons=true&count_private=true)<br>
 <br>![GitHub metrics](https://metrics.lecoq.io/tamikaramkissoon)<br>
 
-![](https://komarev.com/ghpvc/?username=tamikaramkissoon&theme=algolia)
+<!-- ![](https://komarev.com/ghpvc/?username=tamikaramkissoon&theme=algolia) -->

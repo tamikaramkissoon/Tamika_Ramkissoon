@@ -11,20 +11,8 @@
 * [Tamika's Linkedin](https://www.linkedin.com/in/tamika-ramkissoon-1a2622214/)
 
 ## Skill and Technologies:
-<img align="center" src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png" alt="Wordpress" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=ffffff" alt="npm" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://raw.githubusercontent.com/ivangabriele/vscode-heroku/master/res/icon.png" alt="heroku" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb" alt="TailwindCss" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="sql" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
+`Wordpress` `Figma` `npm` `git` `heroku` `JavaScript` `SASS` `Tailwind` `Python` `Flask` `C++` `Dart` `Flutter`
 <br>
 <br>
 

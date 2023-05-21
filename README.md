@@ -1,6 +1,6 @@
 ### Hi, I'm Tamika
 
-## I'm a Front End Developer, a UI/UX Designer and a Software Engineer with a passion for problem solving through technologies.
+## I'm a Software & Data Engineer with a passion for problem solving through technologies and management.
 
 - 🌱 I’m currently learning python and flask for backend development
 - 👯 I’m interesting in collaborating with other Software Developers to design and develop software solutions
